@@ -18,16 +18,26 @@ const AboutSectionOne = () => {
   );
 
   return (
-    <section id="about" className="pt-16 md:pt-20 lg:pt-28">
+    <section id="about" className="pt-16 md:pt-20 lg:pt-3rem">
       <div className="container">
         <div className="border-b border-body-color/[.15] pb-16 dark:border-white/[.15] md:pb-20 lg:pb-28">
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Empowering SMEs with Modern, Affordable Web Solutions"
+                paragraph="At Webzen, we believe every business—regardless of size—deserves a modern, fast, and professional online presence. We're a passionate team of developers, designers, and digital problem-solvers dedicated to helping small and medium-sized enterprises (SMEs) thrive in the digital world."
                 mb="44px"
               />
+
+              <div className="mb-12 text-body-color text-lg ">
+                <p >We specialize in building <strong>affordable, modern websites that are SEO-ready, mobile-responsive, and built to grow</strong> with your business. Whether you're launching your first site or refreshing your brand, Webzen delivers high-performance digital solutions—without the hefty agency price tag.</p>
+              </div>
+
+              
+              <div className="mb-12 text-body-color text-lg ">
+                <p ><strong>Proudly New Zealand owned and operated</strong>, Webzen was founded to support local businesses with world-class web solutions that are both accessible and affordable.</p>
+              </div>
+
 
               <div
                 className="wow fadeInUp mb-12 max-w-[570px] lg:mb-0"

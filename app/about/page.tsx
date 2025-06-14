@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="About Us"
+        description="Your business deserves more than just a website—it deserves a digital presence that works as hard as you do. At Webzen, we're here to make that happen."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
