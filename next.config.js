@@ -9,9 +9,7 @@ const nextConfig = {
         port: "",
       },
     ],
-  },
-  output: 'export',
-  trailingSlash: true
+  }
 };
 
 module.exports = nextConfig;

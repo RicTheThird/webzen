@@ -1,7 +1,7 @@
 const SectionTitle = ({
   title,
   paragraph,
-  width = "570px",
+  width = "70vw",
   center,
   mb = "100px",
 }: {
@@ -15,7 +15,7 @@ const SectionTitle = ({
     <>
       <div
         className={`wow fadeInUp w-full ${center ? "mx-auto text-center" : ""}`}
-        data-wow-delay=".1s"
+        data-wow-delay=".3s"
         style={{ maxWidth: width, marginBottom: mb }}
       >
         <h2 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[45px]">

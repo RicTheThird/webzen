@@ -8,8 +8,8 @@ const Features = () => {
       <section id="features" className="py-16 md:py-20 lg:py-28">
         <div className="container">
           <SectionTitle
-            title="Services Offered"
-            paragraph="We specialize in building powerful, modern websites tailored to your business needs—combining design, performance, and scalability."
+            title="Services"
+            paragraph="At Webzen, we craft modern, high-performance websites tailored to your business needs — without the sky-high agency price tags. Whether you're a startup, a local business, or a growing brand, we’re here to make premium web development accessible and affordable."
             center
           />
 
